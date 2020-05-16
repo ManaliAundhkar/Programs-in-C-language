@@ -37,7 +37,7 @@ int main()
 	
 	fPercent=CalcPercent(iTotal,iObt);
 	
-	printf("The calculated percentage are %0.1f:",fPercent);
+	printf("The calculated percentage are : %0.1f:",fPercent);
 	
 	return 0;
 	
